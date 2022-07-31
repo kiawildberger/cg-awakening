@@ -1,0 +1,20 @@
+{
+  "name": "awaken",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "repository": "https://github.com/kiawildberger/citygirlbot",
+  "scripts": {
+    "start": "node cgbot.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kiawildberger",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.4",
+    "clear-module": "^4.1.1",
+    "discord.js": "^13.6.0",
+    "http": "0.0.1-security",
+    "npm": "^8.5.4"
+  }
+}
